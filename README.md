@@ -1,1 +1,1 @@
-# node-rest-api
+# Blogo
